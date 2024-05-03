@@ -2,6 +2,9 @@
 
 
 ### Hi there 👋
+🚧 Under construction: ~2024.05.10
+📫 How to reach me: chaen328@khu.ac.kr
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaekeun&layout=compact)](https://github.com/chaekeun/github-readme-stats)
 
