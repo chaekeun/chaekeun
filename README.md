@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFBE98)
+
+
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaekeun&layout=compact)](https://github.com/chaekeun/github-readme-stats)
