@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:c5c0c9,50:FFBE98,100:CC8F00&height=200&text=Check%20Chaekeun!&animation=fadeIn&fontColor=c54966)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:CC8F00,50:FFBE98,100:c5c0c9&height=200&text=Check%20Chaekeun!&animation=fadeIn&fontColor=c54966)
 
 
 ### Hi there 👋
