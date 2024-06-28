@@ -2,7 +2,7 @@
 
 
 ### 🌱 Hello, World!
-- 🚧 Under construction: ~2024.05.10
+- 🔭 I’m currently working on: GeeksLoft Embedded Intern (2024.06.17~)
 - 📫 How to reach me: chaen328@khu.ac.kr
 
 
