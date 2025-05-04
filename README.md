@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=164d8f,100:8398ca&height=200&text=Check,%20Chaekeun🦆&animation=twinkling&fontColor=ffbe98&fontAlign=70&rotate=13&fontAlignY=35&fontSize=50)
 
 
-### 🌱 Hello, World!
+### 🌱 Hello, World ˶˙ᵕ˙ )ﾉﾞ
 - 🔭 I’m currently working on: GeeksLoft Embedded Intern (2024.06.17~)
 - 🌱 I’m currently studying at: Mobile Embedded System Lab (mesl.khu.ac.kr)
 - 📫 How to reach me: chaen328@khu.ac.kr
