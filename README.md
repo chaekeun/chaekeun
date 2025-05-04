@@ -6,6 +6,7 @@
 - 🌱 I’m currently studying at: Mobile Embedded System Lab (mesl.khu.ac.kr)
 - 📫 How to reach me: chaen328@khu.ac.kr
 
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/chaekeun" width="100%"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaekeun&layout=compact)](https://github.com/chaekeun/github-readme-stats)
 
