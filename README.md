@@ -3,6 +3,7 @@
 
 ### 🌱 Hello, World!
 - 🔭 I’m currently working on: GeeksLoft Embedded Intern (2024.06.17~)
+- 🌱 I’m currently studying at: Mobile Embedded System Lab (mesl.khu.ac.kr)
 - 📫 How to reach me: chaen328@khu.ac.kr
 
 
