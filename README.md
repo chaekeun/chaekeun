@@ -2,9 +2,10 @@
 
 
 ### 🌱 Hello, World ˶˙ᵕ˙ )ﾉﾞ
-- 🔭 I’m currently working on: GeeksLoft Embedded Intern (2024.06.17~)
-- 🌱 I’m currently studying at: Mobile Embedded System Lab (mesl.khu.ac.kr)
-- 📫 How to reach me: chaen328@khu.ac.kr
+- 🏢 **Current**: AI Solution Development Intern @ Doosan Enerbility (2025‑08‑04 – present)
+- 🔧 **Former**: Embedded Intern @ GeeksLoft (2024‑06‑17 – 2025‑06‑30)
+- 🔬 **Former**: Research Trainee @ Mobile Embedded System Lab (2025‑02‑01 – 2025‑08‑01)
+- 📫 **Contact**: chaen328@khu.ac.kr
 
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/chaekeun" width="50%"/> </a>
 
