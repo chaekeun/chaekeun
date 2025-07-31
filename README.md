@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=164d8f,100:8398ca&height=200&text=Check,%20Chaekeun🐶&animation=twinkling&fontColor=ffbe98&fontAlign=70&rotate=13&fontAlignY=35&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=164d8f,100:8398ca&height=200&text=Check,%20Chaekeun🐌&animation=twinkling&fontColor=ffbe98&fontAlign=70&rotate=13&fontAlignY=35&fontSize=50)
 
 
 ### 🌱 Hello, World ˶˙ᵕ˙ )ﾉﾞ
